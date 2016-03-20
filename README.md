@@ -1,4 +1,4 @@
 # test02
 測試用
 
-<a>www.google.com.tw/a>
+<a herf="www.google.com.tw">Google</a>
